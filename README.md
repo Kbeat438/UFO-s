@@ -9,4 +9,4 @@ To use the website you just enter the proper syntax (i.e. date: 1/10/2021, city:
 
 
 # Summary: 
-These design is useful to get the filtered data, the only draw back is that only one filter can be added at a time. For future development it might be beneficial to make it possible to use all the filters at once. With more data added it could also be useful to have the ability to just add 2 filters at once.  
+This design is useful to get the filtered data as long as you know exactly what information you are searching for. If you do not know what city you are looking for and are guessing by date or some other variable it might be hard to find the UFO sighting you are looking for. Also this filter is very sensitive. You need to put in the correct appreviation for a state for example and if you are wrong or have something capitilized, nothing will show up. 
